@@ -1,7 +1,5 @@
 # FEM Solution of 1-D transient heat transfer in a rod with composite material and internal heat generation
 
-![](Figure.jpg)
-
 
 
 - **Ambient temperature** (Constant, Constant rate, One hold temperature cycle)
