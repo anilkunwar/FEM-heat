@@ -1,4 +1,4 @@
-# FEM Solution of 1-D transient heat transfer in a rod with composite material and internal heat generation
+# FEM Solution of 1-D transient heat transfer in a composite rod with internal heat generation on a tool (metal)  
 
 ![](Figure.jpg)
 
