@@ -9,7 +9,7 @@
         
 - **Solutiion method** (Explicit Euler, Implicit Euler w/ Newton Raphson)
             
-- **Material** (AS4/3501-6)
+- **Material** (AS4/3501-6 composites, Invar tool)
             
 - **Mesh** (Uniform)
             
